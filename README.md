@@ -10,4 +10,4 @@ Run unit tests with `python -m unittest discover`
 
 Uses Google Python Style Guide (https://google.github.io/styleguide/pyguide.html).
 
-Check compliance with `pylint`
+Check compliance with `pylint exception`
